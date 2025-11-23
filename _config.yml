@@ -2,6 +2,6 @@ remote_theme: pages-themes/midnight@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
-title: [Fellowship of the Ping]
-tagline: [A community for IT professionals and enthusiasts]
-description: [A community for IT professionals and enthusiasts]
+title: Fellowship of the Ping
+tagline: A community for IT professionals and enthusiasts
+description: A community for IT professionals and enthusiasts
