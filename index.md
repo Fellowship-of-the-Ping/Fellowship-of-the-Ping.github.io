@@ -9,7 +9,7 @@ Fellowship of the Ping is a virtual maker space for Information Technology profe
 
 ### Member Review Committee
 |Name   |Title   | Social   |
-|---|---|---|
+|:---|:---|:---|
 | Trenton   | Founder   | https://github.com/chramostatm |
 | Matthew | | https://github.com/MatthewR47|
 
