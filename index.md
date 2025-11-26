@@ -13,7 +13,7 @@ Fellowship of the Ping is a virtual maker space for Information Technology profe
 |Name   |Title   | Social   |
 |:---|:---|:---|
 | Trenton   | Founder   | [![Alt Text](./assets/social/github-mark-white.png "Github Logo")](https://github.com/chramostatm)|
-| Matthew | |[![Alt Text](./assets/social/github-mark-white.png "Github Logo")](https://github.com/MatthewR47)|
+| Matthew | Founding Member|[![Alt Text](./assets/social/github-mark-white.png "Github Logo")](https://github.com/MatthewR47)|
 
 ## Sponsorships
 At this time we are not accepting sponsorships.
