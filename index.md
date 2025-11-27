@@ -8,12 +8,8 @@ Fellowship of the Ping is a virtual maker space for Information Technology profe
 
 [![Alt Text](./assets/social/yt_icon_white_digital.png "Youtube Logo")](https://www.youtube.com/@FOTP_IT)
 
-### Member Review Committee
-
-|Name   |Title   | Social   |
-|:---|:---|:---|
-| Trenton   | Founder   | [![Alt Text](./assets/social/github-mark-white.png "Github Logo")](https://github.com/chramostatm)|
-| Matthew | Founding Member|[![Alt Text](./assets/social/github-mark-white.png "Github Logo")](https://github.com/MatthewR47)|
+### Membership
+If you are interested in Membership please contact [membership@fotp.it.com](mailto:membership@fotp.it.com) with the subject line "[Membership] ..."
 
 ## Sponsorships
 At this time we are not accepting sponsorships.
