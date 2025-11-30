@@ -4,9 +4,7 @@ layout: default
 
 ## About
 
-Fellowship of the Ping is a virtual maker space for Information Technology professionals and enthusiasts alike. 
-
-[Socials](./socials.md)
+Fellowship of the Ping is a virtual maker space for Information Technology professionals and enthusiasts alike. [See our Social Media Presence](./socials.md)
 
 [Terms of Service](./TermsOfService.md)
 
