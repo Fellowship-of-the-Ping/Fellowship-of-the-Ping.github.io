@@ -8,7 +8,7 @@ Fellowship of the Ping is a virtual maker space for Information Technology profe
 
 [Socials](./socials.md)
 
-[Privacy Policy](./privacy-policy.md)
+[Terms of Service](./TermsOfService.md)
 
 <!-- [![Alt Text](./assets/social/yt_icon_white_digital.png "Youtube Logo")](https://www.youtube.com/@FOTP_IT) -->
 
