@@ -7,6 +7,7 @@ layout: default
 Fellowship of the Ping is a virtual maker space for Information Technology professionals and enthusiasts alike. 
 
 [Socials](./socials.md)
+
 [Privacy Policy](./privacy-policy.md)
 
 <!-- [![Alt Text](./assets/social/yt_icon_white_digital.png "Youtube Logo")](https://www.youtube.com/@FOTP_IT) -->
